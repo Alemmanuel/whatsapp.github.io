@@ -1,0 +1,46 @@
+.row{
+    display: flex;
+}
+.imgProfile{
+    border-radius: 60px;
+    width: 55px;
+}
+.header{
+    background-color: green;
+    width: 430px;
+    height: 40px;
+    text-align: center;
+}
+.divHeader{
+    margin-left: 35px;
+    margin-top: 12px;
+}
+.iconHeader{
+    margin-top: -4px;
+    margin-left: -3px;
+}
+.number{
+    background-color: blue;
+    width: 20px;
+    margin-bottom: 60px;
+}
+.chats{
+    margin-top: 15px;
+}
+.name{
+    margin-left: 5px;
+    margin-top: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text{
+    margin-left: 5px;
+    margin-top: 7px;
+    color: darkslategrey;
+    font-family: monospace;
+}
+.time{
+    position: absolute;
+    left: 370px;
+    margin-top: 7px;
+    color: darkslategrey;
+}
